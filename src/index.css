@@ -12,3 +12,10 @@
 .logo-text-style{
     margin: -21px 0px 0px 50px;
 }
+main{
+    min-height: 82vh;
+}
+footer{
+    background-color: rgb(108, 112, 107);
+    padding: 10px;
+}
