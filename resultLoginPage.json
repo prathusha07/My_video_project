@@ -1,0 +1,28 @@
+{
+    "resultLoginPage":[
+        {
+            "_id":1,
+            "registerId":"20241818790",
+            "studentName":"Riya",
+            "Father'sName":"Gopala",
+            "collegeName":"Universal College"
+
+        },
+        {
+            "_id":2,
+            "registerId":"20241818791",
+            "studentName":"RiyaSree",
+            "Father'sName":"Gopal",
+            "collegeName":"International Technology College"
+
+        },
+        {
+            "_id":3,
+            "registerId":"20241818792",
+            "studentName":"Riyaz",
+            "Father'sName":"Chanbasha",
+            "collegeName":"Universal College"
+
+        }
+    ]
+}

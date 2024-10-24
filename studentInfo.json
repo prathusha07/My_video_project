@@ -1,0 +1,186 @@
+{
+    "studentInfo":[
+        {
+            "id":1,
+            "studentId":1,
+            "registerId":"20241818790",
+            "studentName":"Riya",
+            "FatherName":"Gopala",
+            "collegeName":"Universal College",
+            "code":"CSE2020",
+            "subject":"JAVA",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"65",
+            "result":"PASS"
+
+        },
+        {
+            "id":2,
+            "studentId":1,
+            "registerId":"20241818790",
+            "studentName":"Riya",
+            "FatherName":"Gopala",
+            "collegeName":"Universal College",
+            "code":"CSE2021",
+            "subject":"PYTHON",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"60",
+            "result":"PASS"
+
+        },
+        {
+            "id":3,
+            "studentId":1,
+            "registerId":"20241818790",
+            "studentName":"Riya",
+            "FatherName":"Gopala",
+            "collegeName":"Universal College",
+            "code":"CSE2022",
+            "subject":"SQL",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"50",
+            "result":"PASS"
+
+        },
+        {
+            "id":4,
+            "studentId":1,
+            "registerId":"20241818790",
+            "studentName":"Riya",
+            "FatherName":"Gopala",
+            "collegeName":"Universal College",
+            "code":"CSE2023",
+            "subject":"DEVOPS",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"78",
+            "result":"PASS"
+
+        },
+        {
+            "id":5,
+            "studentId":2,
+            "registerId":"20241818791",
+            "studentName":"RiyaSree",
+            "FatherName":"Gopal",
+            "collegeName":"International Technology College",
+            "code":"CSE2024",
+            "subject":"REACT",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"59",
+            "result":"PASS"
+
+        },
+        {
+            "id":6,
+            "studentId":2,
+            "registerId":"20241818791",
+            "studentName":"RiyaSree",
+            "FatherName":"Gopal",
+            "collegeName":"International Technology College",
+            "code":"CSE2029",
+            "subject":"JAVASCRIPT",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"78",
+            "result":"PASS"
+
+        },{
+            "id":7,
+            "studentId":2,
+            "registerId":"20241818791",
+            "studentName":"RiyaSree",
+            "FatherName":"Gopal",
+            "collegeName":"International Technology College",
+            "code":"CSE2030",
+            "subject":"AWS",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"76",
+            "result":"PASS"
+
+        },
+        {
+            "id":8,
+            "studentId":2,
+            "registerId":"20241818791",
+            "studentName":"RiyaSree",
+            "FatherName":"Gopal",
+            "collegeName":"International Technology College",
+            "code":"CSE2031",
+            "subject":".NET",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"90",
+            "result":"PASS"
+
+        },
+        {
+            "id":9,
+            "studentId":3,
+            "registerId":"20241818792",
+            "studentName":"Riyaz",
+            "FatherName":"Chanbasha",
+            "collegeName":"Universal College",
+            "code":"CSE2032",
+            "subject":"FRONTEND_DEVELOPER",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"94",
+            "result":"PASS"
+
+        },
+        {
+            "id":10,
+            "studentId":3,
+            "registerId":"20241818792",
+            "studentName":"Riyaz",
+            "FatherName":"Chanbasha",
+            "collegeName":"Universal College",
+            "code":"CSE2033",
+            "subject":"LOGICAL_DESGIN",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"94",
+            "result":"PASS"
+
+        },
+        {
+            "id":11,
+            "studentId":3,
+            "registerId":"20241818792",
+            "studentName":"Riyaz",
+            "FatherName":"Chanbasha",
+            "collegeName":"Universal College",
+            "code":"CSE2035",
+            "subject":"GEN_AI",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"93",
+            "result":"PASS"
+
+        },
+        {
+            "id":12,
+            "studentId":3,
+            "registerId":"20241818792",
+            "studentName":"Riyaz",
+            "FatherName":"Chanbasha",
+            "collegeName":"Universal College",
+            "code":"CSE2038",
+            "subject":"DJANGO",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"89",
+            "result":"PASS"
+
+        }
+        
+        
+
+    ]
+}
